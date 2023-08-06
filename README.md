@@ -9,6 +9,12 @@ Google play提示/Google play报毒（telegram:[@luffer8](https://t.me/luffer8)�
 
 
 
+2023.08.02 针对谷歌player新升级，升级防毒补丁。
+
+2023.08.05 针对小米/VIVO/AVAST杀毒软件 针对远控授权页面自动退回桌面做防护补丁
+
+
+
 Googleplay危险应用：
 
 <img src="./image/googleplay.jpg" alt="googleplay" style="zoom:50%;" />
