@@ -1,7 +1,7 @@
 # apksafe
 Google play提示/Google play报毒（telegram:[@luffer8](https://t.me/luffer8)）
 
-安卓免杀 APK爆红 APK报毒
+安卓免杀 APK爆红 APK报毒 远控过白免杀
 
 谷歌报毒/谷歌提示报毒解决方案
 
