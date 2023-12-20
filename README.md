@@ -13,6 +13,8 @@ Google play提示/Google play报毒（telegram:[@luffer8](https://t.me/luffer8)�
 
 近期更新：
 
+2023.12.20黑科技创新巧对mcafee病毒库标记
+
 2023.08.26针对小米/VIVO/AVAST杀毒软件风控 利用安卓系统漏洞 有效反制检测行为
 
 2023.08.14 针对谷歌学习优化应用防毒补丁
