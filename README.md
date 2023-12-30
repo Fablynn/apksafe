@@ -1,7 +1,9 @@
 # apksafe
 Google play提示/Google play报毒（telegram:[@luffer8](https://t.me/luffer8)）
 
-安卓免杀 APK爆红 APK报毒 远控过白免杀
+安卓免杀 APK爆红 APK报毒 远控过白免杀 
+
+安卓无障碍、成仁内容、显示应用上层服务管理、30天保活免杀过白、APP更换绑定等免杀
 
 谷歌报毒/谷歌提示报毒解决方案
 
