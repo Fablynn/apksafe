@@ -9,21 +9,25 @@ Google play提示/Google play报毒（telegram:[@luffer8](https://t.me/luffer8)�
 
 小米/vivo等手机厂商管家报毒解决方案
 
+近期更新：
+
+2024.01.13  针对韩国杀软v3 mobile Security免杀
+
+2023.12.20  创新巧对mcafee病毒库标记
+
+2023.08.26  针对小米/VIVO/AVAST杀毒软件风控 利用安卓系统漏洞 有效反制检测行为
+
+2023.08.14  针对谷歌保护优化应用免杀补丁
+
+2023.08.05  针对小米/VIVO/AVAST免杀补丁 针对远控授权页面自动退回桌面做防护补丁
+
+2023.08.02  针对谷歌player新升级，免杀补丁。
+
 <img src="./image/info2.jpg" alt="googleplay" style="zoom:50%;" />
 
 <img src="./image/info.jpg" alt="googleplay" style="zoom:50%;" />
 
-近期更新：
 
-2023.12.20黑科技创新巧对mcafee病毒库标记
-
-2023.08.26针对小米/VIVO/AVAST杀毒软件风控 利用安卓系统漏洞 有效反制检测行为
-
-2023.08.14 针对谷歌学习优化应用防毒补丁
-
-2023.08.05 针对小米/VIVO/AVAST杀毒软件 针对远控授权页面自动退回桌面做防护补丁
-
-2023.08.02 针对谷歌player新升级，升级防毒补丁。
 
 
 
